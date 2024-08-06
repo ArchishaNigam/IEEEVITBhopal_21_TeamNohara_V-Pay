@@ -25,9 +25,9 @@ This fits the theme of student welfare because we are trying to simplify the pay
 Future Enhancements - 
 Initially developed as a financial tracking app, this app has a lot of scope for broad perspective due to the large number of prospective users. The future possible enhancements are:-
 1) A centralized complaint/suggestions forum for the students and faculty to smooth the entire process and ensure better problem-solving.
-2) a separate networking forum for students
+2) A separate networking forum for students
    this is a feature needed when students do not like to hand out personal details(such as phone numbers or Instagram handles). apart from personal communication we also 
    plan on having chatrooms for different batches/branches or base them on personal interests(such as sports, reading, gardening, etc.)
 3) Access to a database of students along with their branches and batches to facilitate easier communication.
-4) Frequent updates shall be rolled out wit more features as per the needs of students
+4) Frequent updates shall be rolled out with more features as per the needs of students
    
